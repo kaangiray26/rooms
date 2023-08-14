@@ -1,2 +1,2 @@
 # rooms
-A P2P zoom alternative
+An open-source P2P Zoom alternative
